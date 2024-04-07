@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PatSternberg
-- 👀 I’m interested in working innovative and unusual projects
+- 👀 I’m interested in developing innovative and unusual projects
 - 🌱 I’m currently learning Python at Makers Academy
 - 💞️ I’m looking to collaborate on developing websites or apps
 - 📫 Reach me on LinkedIn or here on GitHub
