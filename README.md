@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatSternberg
+- 👋 Hi, I’m Patrick @PatSternberg
 - 👀 I’m interested in innovative web and mobile apps that present data in interesting and unusual ways
 - 🌱 I’m currently learning Python, Javascript, React and Swift at Makers Academy
 - 💞️ I’m looking to collaborate on developing websites or apps
