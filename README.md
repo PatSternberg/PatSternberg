@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing QoL apps or game mods
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/patrick-skipworth-a87a20145/), here on [GitHub](https://github.com/PatSternberg) or on [Codewars](https://www.codewars.com/users/PatSkip)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a mischievous tuxedo cat called Paco
+- ⚡ Fun fact: I live with a mischievous tuxedo cat called Paco 🐈‍⬛
 
 <!---
 PatSternberg/PatSternberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
