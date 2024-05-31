@@ -37,7 +37,7 @@
 
 ⚡ Fun fact: I live with a mischievous tuxedo cat called Paco 🐈‍⬛
 
-🛠️ Here are a couple of projects of mine you can check out 🛠️
+🛠️ Here are a few projects of mine you can check out 🛠️
 
 |What|Where|How|
 |--|--|--|
