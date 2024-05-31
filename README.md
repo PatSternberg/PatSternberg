@@ -23,8 +23,9 @@
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="CI/CD" title="CI/CD"/></code>
 </div>
+<br>
 
-👀 I'm creative software developer with a background in web development and the creative industries. I also wrote a children's book about where English words come from. I've got experience in Python, JavaScript, Typescript and Swift, alongside Agile scrum, web development and project management skills I picked up in a previous life. I bring a unique blend of technical proficiency and strong communication skills to the table, but most of all I like to experiment with new technologies and am always looking to expand my programming skills! 👀
+👀 I'm a creative software developer with a background in web development and the creative industries. I also wrote a children's book about where English words come from. I've got experience in Python, JavaScript, Typescript and Swift, alongside Agile scrum, web development and project management skills I picked up in a previous life. I bring a unique blend of technical proficiency and strong communication skills to the table, but most of all I like to experiment with new technologies and am always looking to expand my programming skills! 👀
 
 🌱 I’m currently working on a word-guessing game built with Typescript, and I just completed a bootcamp at Makers Academy focussing on Python, Javascript and Swift 🌱 
 
@@ -41,7 +42,7 @@
 |What|Where|How|
 |--|--|--|
 |**Pictoman** - A word guessing game with image clues pulled from Google Images API |https://pictoman.onrender.com/|Javascript, TypeScript, Node.js, Google Images API|
-|**Fridge Wizard** - A web application tracking expiry dates and suggesting recipes to users supplied by 3rd-party API|fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
+|**Fridge Wizard** - A web application tracking expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
 
 
 <!---
