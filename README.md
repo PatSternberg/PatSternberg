@@ -31,7 +31,7 @@
 
 💞️ I love to learn and work in a team, so if you're looking to collaborate on anything from apps to Stellaris mods, send me a message 💞️
 
-📫 If you want to hear more, check out my CV on [GitHub Pages](https://patsternberg.github.io/markdown-cv/) or reach out on [LinkedIn](https://www.linkedin.com/in/patrick-skipworth-a87a20145/) or here on [GitHub](https://github.com/PatSternberg). Or you could send me a challenge on [Codewars](https://www.codewars.com/users/PatSkip). 📫
+📫 If you want to hear more, check out my CV on [GitHub Pages](https://patsternberg.github.io/markdown-cv/) or reach out on [LinkedIn](https://www.linkedin.com/in/patrick-skipworth-a87a20145/) or here on [GitHub](https://github.com/PatSternberg). Or you could send me a challenge on [Codewars](https://www.codewars.com/users/PatSkip) 📫
 
 🦦 Pronouns: he/him 🦦
 
