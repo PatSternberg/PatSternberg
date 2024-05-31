@@ -43,7 +43,7 @@
 |--|--|--|
 |**Pictoman** - A word guessing game with image clues pulled from Google Images API |https://pictoman.onrender.com/|Javascript, TypeScript, Node.js, Google Images API|
 |**Fridge Wizard** - A web application tracking expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
-
+|**VenBnB** - Full stack Python app for registering and booking properties|https://github.com/gdloparco/makersbnb-awe-team|Python, Flask, PostgreSQL|
 
 <!---
 PatSternberg/PatSternberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
