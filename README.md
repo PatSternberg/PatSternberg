@@ -43,6 +43,7 @@
 |--|--|--|
 |**Pictoman** - A word guessing game with image clues pulled from Google Images API |https://pictoman.onrender.com/|TypeScript, Javascript, Node.js, Google Images API|
 |**Fridge Wizard** - A web application tracking food expiry dates and suggesting recipes to users supplied by 3rd-party API|https://fridgewizard.onrender.com/|Javascript, React, Python, Django, MongoDB, pytest, 3rd party API|
+|**Harrow Law Centre website** -  Website redesign with new styling and reactive design adapted for mobile and desktop viewing. Also set up TLS security certificates and staging environment|https://www.harrowlawcentre.org.uk/|HTML, CSS, JavaScript, TLS, UI/UX design, client communication|
 |**Acebook** - Social media app built as part of a team with distinct front- and backend roles|https://github.com/PatSternberg/go-react-acebook-radon|Javascript, React, Go, Gin, PostgreSQL|
 |**VenBnB** - Full stack Python app for registering and booking properties|https://github.com/gdloparco/makersbnb-awe-team|Python, Flask, PostgreSQL|
 
