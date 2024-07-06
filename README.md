@@ -25,7 +25,7 @@
 </div>
 <br>
 
-👀 I'm a creative software developer with a background in web development and the creative industries. I also wrote a children's book about where English words come from. I've got experience in Python, JavaScript, Typescript and Swift, alongside Agile scrum, web development and project management skills I picked up in a previous life. I bring a unique blend of technical proficiency and strong communication skills to the table, but most of all I like to experiment with new technologies and am always looking to expand my programming skills! 👀
+👀 I'm a software developer and wuality engineer with a background in web development and the creative industries. I also wrote a children's book about where English words come from. I've got experience in Python, JavaScript, Typescript and Swift, alongside Agile scrum, web development and project management skills I picked up in a previous life. I bring a unique blend of technical proficiency and strong communication skills to the table, but most of all I like to experiment with new technologies and am always looking to expand my programming skills! 👀
 
 🌱 I’m currently working on a word-guessing game built with Typescript, and I just completed a bootcamp at Makers Academy focussing on Python, Javascript and Swift 🌱 
 
